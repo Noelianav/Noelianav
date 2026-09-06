@@ -177,33 +177,6 @@ Explorando cómo utilizar agentes y modelos de lenguaje para ayudar en tareas co
 
 ---
 
-## 🛠️ Proyectos en los que estoy trabajando
-
-### 📊 Deneb Visual Library
-
-Biblioteca de visualizaciones personalizadas para **Power BI + Deneb**, con ejemplos documentados y reutilizables.
-
-`Power BI` `Deneb` `Vega-Lite` `DAX`
-
-### 🤖 LinkedIn Analytics & Content Automation
-
-Sistema personal para analizar publicaciones, métricas y planificación de contenido mediante una combinación de:
-
-`Python` `n8n` `APIs` `LLMs` `Analytics`
-
-### 🏠 Smart Home Platform
-
-Proyecto personal para centralizar diferentes aspectos de la gestión del hogar:
-
-- inventario y despensa
-- planificación de comidas
-- automatizaciones
-- Home Assistant
-- consumo y métricas
-
-`Home Assistant` `Python` `Docker` `n8n` `IoT`
-
----
 
 ## 💡 Mi forma de trabajar
 
